@@ -1,0 +1,79 @@
+.Yup{
+    border-style: groove;
+    border-color: blue;
+    border-width: 100px;
+    margin: 100px;
+    height: auto;
+}
+
+#title{
+    color: black;
+    font-size: 24px;
+    text-align: center;
+}
+
+.lol{
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.man,.cool,{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#ihop{
+    text-align: center; 
+}
+
+#o{
+
+}
+
+#num1{
+    text-decoration: underline black;
+    text-align: center;
+    margin-left: 0%;
+    
+}
+.io{
+    text-align: left;
+    margin-left: 2%;
+    margin-right: auto;
+}
+
+#ppp{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#para{
+    text-align: center;
+}
+
+#l{
+   text-align: center;
+   text-decoration: underline black;
+}
+
+#dub{
+    text-align: center;
+    text-decoration: underline black;
+}
+
+#child{
+    text-align: center;
+    text-decoration: underline black;
+}
+
+.yes{
+    border-style: solid;
+    background-color: gray;
+    text-align: center;
+}
